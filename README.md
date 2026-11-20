@@ -12,7 +12,7 @@
 7. Ombasa Isaac - BSCCS/2024/53672
 8. Geu Machar Deng - BSCCS/2024/54588
 
-**GitHub Repository:** https://github.com/coddex5996/bit2118-scientific-computing
+**My GitHub Repository:** https://github.com/coddex5996/bit2118-scientific-computing
 
 ## Project Overview
 This repository contains my individual submission for the Scientific Computing Group Work (Tasks 2–20). It includes the base Python programs, modified real-world applications (Instruction E), generated plots, and written interpretations of inputs, parameter changes, and outputs (Instructions B, C, and D). 
